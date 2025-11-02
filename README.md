@@ -203,10 +203,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [https://jeantimex.github.io/flight-path/](https://tumesh.github.io/flight-path/)
-- **Repository**: [https://github.com/jeantimex/flight-path](https://github.com/tumesh/flight-path)
-- **Issues**: [https://github.com/jeantimex/flight-path/issues](https://github.com/tumesh/flight-path/issues)
+- **Live Demo**: [https://tumesh.github.io/flight-path/](https://tumesh.github.io/flight-path/)
+- **Repository**: [https://github.com/tumesh/flight-path](https://github.com/tumesh/flight-path)
+- **Issues**: [https://github.com/tumesh/flight-path/issues](https://github.com/tumesh/flight-path/issues)
 
 ---
 
-Made with ❤️ by [jeantimex](https://github.com/jeantimex)
+Made with ❤️ by [tumesh](https://github.com/tumesh)
