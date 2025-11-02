@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Live Demo**: [https://tumesh.github.io/flight-path/](https://tumesh.github.io/flight-path-main/)
-- **Repository**: [https://github.com/tumesh/flight-path](https://github.com/tumesh/flight-path-mainh)
+- **Repository**: [https://github.com/tumesh/flight-path](https://github.com/tumesh/flight-path-main)
 - **Issues**: [https://github.com/tumesh/flight-path/issues](https://github.com/tumesh/flight-path-main/issues)
 
 ---
