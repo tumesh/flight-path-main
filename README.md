@@ -4,7 +4,7 @@ A stunning 3D interactive flight path visualization built with Three.js, featuri
 
 https://github.com/user-attachments/assets/accd0313-8967-42b9-b41a-43e3467a78f1
 
-[Flight Path Demo](https://jeantimex.github.io/flight-path/)
+[Flight Path Demo](https://tumesh.github.io/flight-path/)
 
 ## 🌟 Features
 
@@ -203,9 +203,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [https://jeantimex.github.io/flight-path/](https://jeantimex.github.io/flight-path/)
-- **Repository**: [https://github.com/jeantimex/flight-path](https://github.com/jeantimex/flight-path)
-- **Issues**: [https://github.com/jeantimex/flight-path/issues](https://github.com/jeantimex/flight-path/issues)
+- **Live Demo**: [https://jeantimex.github.io/flight-path/](https://tumesh.github.io/flight-path/)
+- **Repository**: [https://github.com/jeantimex/flight-path](https://github.com/tumesh/flight-path)
+- **Issues**: [https://github.com/jeantimex/flight-path/issues](https://github.com/tumesh/flight-path/issues)
 
 ---
 
