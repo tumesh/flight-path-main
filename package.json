@@ -1,0 +1,37 @@
+{
+  "name": "flight-path",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeantimex/flight-path.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jeantimex/flight-path/issues"
+  },
+  "homepage": "https://jeantimex.github.io/flight-path/",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "prettier": "^3.6.2",
+    "vite": "^6.3.6"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "stats.js": "^0.17.0",
+    "three": "^0.180.0"
+  }
+}
