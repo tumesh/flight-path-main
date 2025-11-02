@@ -4,7 +4,7 @@ A stunning 3D interactive flight path visualization built with Three.js, featuri
 
 https://github.com/user-attachments/assets/accd0313-8967-42b9-b41a-43e3467a78f1
 
-[Flight Path Demo](https://tumesh.github.io/flight-path/)
+[Flight Path Demo](https://tumesh.github.io/flight-path-main/)
 
 ## 🌟 Features
 
@@ -89,8 +89,8 @@ Organized GUI interface with intuitive control panels:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/jeantimex/flight-path.git
-   cd flight-path
+   git clone https://github.com/tumesh/flight-path-main.git
+   cd flight-path-main
    ```
 
 2. **Install dependencies**
@@ -203,10 +203,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [https://tumesh.github.io/flight-path/](https://tumesh.github.io/flight-path/)
-- **Repository**: [https://github.com/tumesh/flight-path](https://github.com/tumesh/flight-path)
-- **Issues**: [https://github.com/tumesh/flight-path/issues](https://github.com/tumesh/flight-path/issues)
+- **Live Demo**: [https://tumesh.github.io/flight-path/](https://tumesh.github.io/flight-path-main/)
+- **Repository**: [https://github.com/tumesh/flight-path](https://github.com/tumesh/flight-path-mainh)
+- **Issues**: [https://github.com/tumesh/flight-path/issues](https://github.com/tumesh/flight-path-main/issues)
 
 ---
 
-Made with ❤️ by [tumesh](https://github.com/tumesh)
+Made with ❤️ by [jeantimex](https://github.com/tumesh)
